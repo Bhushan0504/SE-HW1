@@ -1,1 +1,1 @@
-# SE-HW1
+# [Howework 1: A Beautiful Repo](https://txt.github.io/se24fall/hw1.html)
